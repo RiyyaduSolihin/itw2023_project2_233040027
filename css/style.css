@@ -1,0 +1,32 @@
+
+* {
+
+    font-family: "Poppins", sans-serif;
+  }
+
+
+  
+.banner {
+    background: url(../img/produk.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+/* layanan */
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin-top: auto;
+  height: 150px;
+  color: #fff;
+  background-color: brown;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
